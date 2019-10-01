@@ -1,0 +1,128 @@
+/* estilos de titulos */
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+    color: crimson;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: crimson;
+    text-decoration: underline;
+}
+
+#gif1 {
+    height: 220px;
+    width: 250px;
+
+}
+
+#gif2 {
+    height: 400px;
+    width:  538px; 
+}
+
+.container1 {
+    display: flex;
+    align-items: flex-end;
+    height: 120px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+
+/*estilos de boton*/
+
+.botonesfb {
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+}
+
+#boton2{
+    background-color: IndianRed	;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#boton1 img{
+    width: 40px;
+
+}
+button a{
+    color: crimson
+}
+
+/*estilos del body*/
+
+body{
+    background-color: BlanchedAlmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+
+/*bandera noruega*/
+
+/* Parte 1 */
+#cuadro1 {
+    height: 80px;
+    width: 80px;
+}
+#cuadro2{
+    height: 80px;
+    width: 20px;
+}
+#cuadro3{
+    height: 80px;
+    width: 40px;
+}
+#cuadro4{
+    height: 80px;
+    width: 20px;
+}
+#cuadro5{
+    height: 80px;
+    width: 170px;
+}
+
+#franja1{
+    display: flex;
+    align-content: flex-start;
+}
+
+/* Parte 2*/
+#cuadro6{
+    height: 20px;
+    width: 100px;
+}
+
+#cuadro7{
+    height: 20px;
+    width: 40px;
+}
+
+#cuadro8{
+    height: 20px;
+    width: 190px;
+}
+
+#franja2{
+    display: flex;
+    align-content: flex-start;
+}
+
+/* Parte 3 */
+
+#cuadro9{
+    height: 20px;
+    width: 330px;
+}
+
+#franja3{
+    display: flex;
+    align-content: flex-start;
+}
